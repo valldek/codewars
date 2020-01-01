@@ -9,10 +9,8 @@ function isValidWalk (walk) {
     return acc;
   }, {});
 
-  if (directions.n === directions.s) {
-    if(directions.e === directions.w) {
-      return true;
-    }
+  if (directions.n === directions.s && directions.e === directions.w) {
+    return true;
   }
 
   return false;
