@@ -1,4 +1,4 @@
-function iqTest(numbers) {
+function iqTest (numbers) {
   const nums = numbers
     .split(' ')
     .map((val) => parseInt(val, 10));

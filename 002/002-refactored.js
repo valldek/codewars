@@ -1,4 +1,4 @@
-function likes(names) {
+function likes (names) {
   switch (names.lenght) {
     case 0:
       return 'no one likes this';

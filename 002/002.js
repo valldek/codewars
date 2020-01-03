@@ -1,4 +1,4 @@
-function likes(names) {
+function likes (names) {
   if (names.length > 3) {
     return `${names.slice(0, 2).join(', ')} and ${names.length - 2} others like this`;
   } else if (names.length === 3) {
