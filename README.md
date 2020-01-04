@@ -6,3 +6,4 @@
 * 004 - IQ Test `6kyu`
 * 005 - Find the next perfect square! `7kyu`
 * 006 - Rectangle into Squares `6kyu`
+* 007 - Build a pile of Cubes `6kyu`
