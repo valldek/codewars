@@ -13,3 +13,5 @@
 * 006 - Rectangle into Squares &ensp; ![6kyu badge](./.codewars-badges/6kyu.png)
 
 * 007 - Build a pile of Cubes &ensp; ![6kyu badge](./.codewars-badges/6kyu.png)
+
+* 008 - WeIrD StRiNg CaSe &ensp; ![6kyu badge](./.codewars-badges/6kyu.png)
