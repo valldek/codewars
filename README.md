@@ -1,9 +1,15 @@
 # My [Codewars](https://www.codewars.com) Solutions
 
-* 001 - Multiply `8kyu`
-* 002 - Who likes it? `6kyu`
-* 003 - Take a Ten Minute Walk `6ktu`
-* 004 - IQ Test `6kyu`
-* 005 - Find the next perfect square! `7kyu`
-* 006 - Rectangle into Squares `6kyu`
-* 007 - Build a pile of Cubes `6kyu`
+* 001 - Multiply &ensp; ![8kyu badge](./.codewars-badges/8kyu.png)
+
+* 002 - Who likes it? &ensp; ![6kyu badge](./.codewars-badges/6kyu.png)
+
+* 003 - Take a Ten Minute Walk &ensp; ![6kyu badge](./.codewars-badges/6kyu.png)
+
+* 004 - IQ Test &ensp; ![6kyu badge](./.codewars-badges/6kyu.png)
+
+* 005 - Find the next perfect square! &ensp; ![7kyu badge](./.codewars-badges/7kyu.png)
+
+* 006 - Rectangle into Squares &ensp; ![6kyu badge](./.codewars-badges/6kyu.png)
+
+* 007 - Build a pile of Cubes &ensp; ![6kyu badge](./.codewars-badges/6kyu.png)
