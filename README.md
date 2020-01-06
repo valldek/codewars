@@ -1,4 +1,4 @@
-# My [Codewars](https://www.codewars.com) Solutions
+# My [Codewars](https://www.codewars.com) JavaScript Solutions
 
 * 001 - Multiply &ensp; ![8kyu badge](./.codewars-badges/8kyu.png)
 
