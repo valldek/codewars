@@ -17,3 +17,5 @@
 * 008 - WeIrD StRiNg CaSe &ensp; ![6kyu badge](./.codewars-badges/6kyu.png)
 
 * 009 - Where my anagrams at? &ensp; ![5kyu badge](./.codewars-badges/5kyu.png)
+
+* 010 - Where my anagrams at? &ensp; ![7kyu badge](./.codewars-badges/7kyu.png)
