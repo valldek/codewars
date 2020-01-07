@@ -18,4 +18,6 @@
 
 * 009 - Where my anagrams at? &ensp; ![5kyu badge](./.codewars-badges/5kyu.png)
 
-* 010 - Where my anagrams at? &ensp; ![7kyu badge](./.codewars-badges/7kyu.png)
+* 010 - Square Every Digit &ensp; ![7kyu badge](./.codewars-badges/7kyu.png)
+
+* 011 - Find the divisors!  &ensp; ![7kyu badge](./.codewars-badges/7kyu.png)
