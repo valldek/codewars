@@ -21,3 +21,5 @@
 * 010 - Square Every Digit &ensp; ![7kyu badge](./.codewars-badges/7kyu.png)
 
 * 011 - Find the divisors!  &ensp; ![7kyu badge](./.codewars-badges/7kyu.png)
+
+* 012 - Delete occurrences of an element if it occurs more than n times  &ensp; ![6kyu badge](./.codewars-badges/6kyu.png)

@@ -1,4 +1,4 @@
-# Square Every Digit
+# ![7kyu badge](./.codewars-badges/7kyu.png) Square Every Digit
 
 Welcome. In this kata, you are asked to square every digit of a number.
 
