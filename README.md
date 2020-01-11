@@ -29,3 +29,5 @@
 * 014 - My head is at the wrong end!  &ensp; ![8kyu badge](./.codewars-badges/8kyu.png)
 
 * 015 - Consecutive strings  &ensp; ![6kyu badge](./.codewars-badges/6kyu.png)
+
+* 016 - Find the first non-consecutive number  &ensp; ![8kyu badge](./.codewars-badges/8kyu.png)
