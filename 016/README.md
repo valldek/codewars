@@ -1,4 +1,4 @@
-# ![8kyu badge](./.codewars-badges/8kyu.png) Find the first non-consecutive number
+# ![8kyu badge](../.codewars-badges/8kyu.png) Find the first non-consecutive number
 
 Your task is to find the first element of an array that is not consecutive.
 

@@ -33,3 +33,5 @@
 * 016 - Find the first non-consecutive number  &ensp; ![8kyu badge](./.codewars-badges/8kyu.png)
 
 * 017 - String repeat  &ensp; ![8kyu badge](./.codewars-badges/8kyu.png)
+
+* 018 - Highest Scoring Word  &ensp; ![6kyu badge](./.codewars-badges/6kyu.png)

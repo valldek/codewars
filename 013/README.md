@@ -1,4 +1,4 @@
-# ![7kyu badge](./.codewars-badges/7kyu.png) Vowel Count
+# ![7kyu badge](../.codewars-badges/7kyu.png) Vowel Count
 
 Return the number (count) of vowels in the given string.
 

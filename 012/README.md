@@ -1,4 +1,4 @@
-# ![6kyu badge](./.codewars-badges/6kyu.png) Delete occurrences of an element if it occurs more than n times
+# ![6kyu badge](../.codewars-badges/6kyu.png) Delete occurrences of an element if it occurs more than n times
 
 ## Enough is enough!
 

@@ -1,4 +1,4 @@
-# ![6kyu badge](./.codewars-badges/6kyu.png) Consecutive strings
+# ![6kyu badge](../.codewars-badges/6kyu.png) Consecutive strings
 
 You are given an array `strarr` of strings and an integer `k`. Your task is to return the **first** longest string consisting of k **consecutive** strings taken in the array.
 

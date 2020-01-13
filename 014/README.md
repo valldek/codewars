@@ -1,4 +1,4 @@
-# ![8kyu badge](./.codewars-badges/8kyu.png) My head is at the wrong end!
+# ![8kyu badge](../.codewars-badges/8kyu.png) My head is at the wrong end!
 
 You're at the zoo... all the meerkats look weird. Something has gone terribly wrong - someone has gone and switched their heads and tails around!
 
