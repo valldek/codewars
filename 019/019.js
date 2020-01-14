@@ -1,30 +1,22 @@
 function getPlanetName (id) {
-  var name;
+  if (id < 1 || id > 8) return `There are 8 planets in SOL system - sorry Pluto :)`;
+
   switch (id) {
     case 1:
-      name = 'Mercury';
-      break;
+      return 'Mercury';
     case 2:
-      name = 'Venus';
-      break;
+      return 'Venus';
     case 3:
-      name = 'Earth';
-      break;
+      return 'Earth';
     case 4:
-      name = 'Mars';
-      break;
+      return 'Mars';
     case 5:
-      name = 'Jupiter';
-      break;
+      return 'Jupiter';
     case 6:
-      name = 'Saturn';
-      break;
+      return 'Saturn';
     case 7:
-      name = 'Uranus';
-      break;
+      return 'Uranus';
     case 8:
-      name = 'Neptune';
-      break;
+      return 'Neptune';
   }
-  return name;
 }
