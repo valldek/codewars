@@ -37,3 +37,5 @@
 * 018 - Highest Scoring Word  &ensp; ![6kyu badge](./.codewars-badges/6kyu.png)
 
 * 019 - Get Planet Name By ID  &ensp; ![8kyu badge](./.codewars-badges/8kyu.png)
+
+* 020 - Rock Paper Scissors!  &ensp; ![8kyu badge](./.codewars-badges/8kyu.png)
