@@ -39,3 +39,5 @@
 * 019 - Get Planet Name By ID  &ensp; ![8kyu badge](./.codewars-badges/8kyu.png)
 
 * 020 - Rock Paper Scissors!  &ensp; ![8kyu badge](./.codewars-badges/8kyu.png)
+
+* 021 - Human Readable Time  &ensp; ![5kyu badge](./.codewars-badges/5kyu.png)
