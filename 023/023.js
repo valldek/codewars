@@ -1,13 +1,18 @@
 function mean (lst) {
-  let mean = 0;
+  let numArr = [];
   let str = '';
 
   for (let l of lst) {
     if (Number.isInteger(+l)) {
-      mean += l;
+      numArr.push(+l);
     } else {
       str += l;
     }
   }
-  return [mean/10, str];
+
+  const mean = numArr.reduce((acc, cur) => {
+    return acc += cur;
+  }, 0)/numArr.length;
+
+  return [mean, str];
 }
