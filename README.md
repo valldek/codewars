@@ -43,3 +43,5 @@
 * 021 - Human Readable Time  &ensp; ![5kyu badge](./.codewars-badges/5kyu.png)
 
 * 022 - Loose Change!  &ensp; ![7kyu badge](./.codewars-badges/7kyu.png)
+
+* 023 - Calculate mean and concatenate string  &ensp; ![7kyu badge](./.codewars-badges/7kyu.png)
