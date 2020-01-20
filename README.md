@@ -47,3 +47,5 @@
 * 023 - Calculate mean and concatenate string  &ensp; ![7kyu badge](./.codewars-badges/7kyu.png)
 
 * 024 - Data Reverse  &ensp; ![6kyu badge](./.codewars-badges/6kyu.png)
+
+* 025 - List Filtering  &ensp; ![7kyu badge](./.codewars-badges/7kyu.png)
