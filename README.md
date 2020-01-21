@@ -51,3 +51,5 @@
 * 025 - List Filtering  &ensp; ![7kyu badge](./.codewars-badges/7kyu.png)
 
 * 026 - Regex validate PIN code  &ensp; ![7kyu badge](./.codewars-badges/7kyu.png)
+
+* 027 - Array Helpers  &ensp; ![6kyu badge](./.codewars-badges/6kyu.png)
