@@ -53,3 +53,5 @@
 * 026 - Regex validate PIN code  &ensp; ![7kyu badge](./.codewars-badges/7kyu.png)
 
 * 027 - Array Helpers  &ensp; ![6kyu badge](./.codewars-badges/6kyu.png)
+
+* 028 - Multi-tap Keypad Text Entry on an Old Mobile Phone  &ensp; ![6kyu badge](./.codewars-badges/6kyu.png)

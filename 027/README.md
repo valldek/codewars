@@ -1,4 +1,4 @@
-# ![6kyu badge](./.codewars-badges/6kyu.png) Array Helpers
+# ![6kyu badge](../.codewars-badges/6kyu.png) Array Helpers
 
 This kata is designed to test your ability to extend the functionality of built-in classes. In this case, we want you to extend the built-in `Array` class with the following methods: `square()`, `cube()`, `average()`, `sum()`, `even()` and `odd()`.
 
