@@ -55,3 +55,5 @@
 * 027 - Array Helpers  &ensp; ![6kyu badge](./.codewars-badges/6kyu.png)
 
 * 028 - Multi-tap Keypad Text Entry on an Old Mobile Phone  &ensp; ![6kyu badge](./.codewars-badges/6kyu.png)
+
+* 029 - Rainfall  &ensp; ![6kyu badge](./.codewars-badges/6kyu.png)
