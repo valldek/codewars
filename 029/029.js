@@ -3,7 +3,7 @@ function mean(town, string) {
   if (data === -1) return -1;
 
   return data.reduce((acc, cur) => {
-    acc += cur
+    return acc += cur;
   }, 0) / data.length;
 }
 
