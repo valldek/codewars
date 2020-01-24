@@ -59,3 +59,5 @@
 * 029 - Rainfall  &ensp; ![6kyu badge](./.codewars-badges/6kyu.png)
 
 * 030 - Strip Comments  &ensp; ![4kyu badge](./.codewars-badges/4kyu.png)
+
+* 030 - Kebabize  &ensp; ![6kyu badge](./.codewars-badges/6kyu.png)
