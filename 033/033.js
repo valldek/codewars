@@ -3,7 +3,7 @@ function expandedForm (num) {
 
   const [integerPart, decimalPart] = num.toString().split('.');
 
-  return expandIntegerPart(integerPart) + expandIntegerPart(decimalPart);
+  return [...expandIntegerPart(integerPart), ...expandIntegerPart(decimalPart)].join(' + ');
 }
 
 function expandIntegerPart (string) {
@@ -14,8 +14,7 @@ function expandIntegerPart (string) {
       return val * Math.pow(10, idx);
     })
     .filter((val) => val)
-    .reverse()
-    .join(' + ');
+    .reverse();
 }
 
 function expandDecimalPart (string) {
@@ -27,6 +26,5 @@ function expandDecimalPart (string) {
       }
       return 0
     })
-    .filter((val) => val)
-    .join(' + ');
+    .filter((val) => val);
 }
