@@ -63,3 +63,5 @@
 * 031 - Kebabize  &ensp; ![6kyu badge](./.codewars-badges/6kyu.png)
 
 * 032 - Write Number in Expanded Form  &ensp; ![6kyu badge](./.codewars-badges/6kyu.png)
+
+* 033 - Write Number in Expanded Form - Part 2  &ensp; ![6kyu badge](./.codewars-badges/6kyu.png)
