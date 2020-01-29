@@ -67,3 +67,5 @@
 * 033 - Write Number in Expanded Form - Part 2  &ensp; ![6kyu badge](./.codewars-badges/6kyu.png)
 
 * 034 - Sort the odd  &ensp; ![6kyu badge](./.codewars-badges/6kyu.png)
+
+* 035 - Decode the Morse code  &ensp; ![6kyu badge](./.codewars-badges/6kyu.png)
