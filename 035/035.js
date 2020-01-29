@@ -4,7 +4,7 @@ const decodeMorse = function (morseCode) {
   const w = morseCode.split('   ');
   return w.
     map((val) =>
-      (val.split('  ')
+      (val.split(' ')
         .map((v) => {
           return MORSE_CODE[v]
         })
